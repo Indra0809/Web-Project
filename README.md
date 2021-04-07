@@ -4,5 +4,5 @@ Group project for Web Development course
 
 members:
 
-Kanapiya Asylbek
+Kanapiya Asylbek,
 Indra Kairat
